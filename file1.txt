@@ -1,3 +1,6 @@
 India's first file 
+<<<<<<< HEAD
 Adding a line for the test branch
 Adding a star to make example of conflict
+Edited one line from the remote
+>>>>>>> 6831c361103149275fe7ae57642ff786b4496702
